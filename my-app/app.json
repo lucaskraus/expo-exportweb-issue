@@ -35,8 +35,8 @@
       [
         "@sentry/react-native/expo",
         {
-          "organization": "izzi-wallet-qu",
-          "project": "izziwallet"
+          "organization": "[organization-here]",
+          "project": "[project-here]"
         }
       ],
       "expo-router",
