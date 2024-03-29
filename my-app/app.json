@@ -35,8 +35,8 @@
       [
         "@sentry/react-native/expo",
         {
-          "organization": "[organization-here]",
-          "project": "[project-here]"
+          "organization": "organization",
+          "project": "project"
         }
       ],
       "expo-router",
